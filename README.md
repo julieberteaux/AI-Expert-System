@@ -174,7 +174,7 @@ Au finale la liste suivante est renvoyée :
      
 ## Conclusion
 
-	Au cours de ce TP nous avons voulu concevoir un système expert qui pourrait nous être utile en tant qu’étudiantes à l’UTC. Toutes deux très intéressées par un départ à l’étranger nous avons décidé de concevoir un système d’aide à la décision du choix de destinations pour un semestre à l’étranger. 
+Au cours de ce TP nous avons voulu concevoir un système expert qui pourrait nous être utile en tant qu’étudiantes à l’UTC. Toutes deux très intéressées par un départ à l’étranger nous avons décidé de concevoir un système d’aide à la décision du choix de destinations pour un semestre à l’étranger. 
 
 Nous avons implémenté notre moteur en chainage avant car cela nous a semblé plus approprié à la réalité. En effet de manière générale, lorsqu’on souhaite partir à l’étranger nous n’avons pas vraiment connaissance de l’ensemble des universités possibles et donc nos envies sont peu précises : « j’aimerais partir sur tel continent » et non pas «  j’aimerais partir dans telle université ». Toutefois, il aurait aussi été possible d’aborder ce problème avec un moteur en chainage arrière. Dans ce cas, la base de faits contiendrait les universités visées et le moteur renverrait si le départ est possible ou non pour chaque université.
 

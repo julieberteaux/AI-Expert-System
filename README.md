@@ -2,7 +2,7 @@
 ## TP3 IA01
 ## Système Expert d’ordre 0+.
 
-## Liepchitz Laura & Berteaux Julie - 
+## Liepchitz Laura & Berteaux Julie  
 
 # Où partir en semestre à l’étranger ?
 

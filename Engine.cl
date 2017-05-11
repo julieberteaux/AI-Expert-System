@@ -3,7 +3,12 @@
 
 
 (defun moteur ()
-  ;on teste si le départ est possible au vu du pourcentage_EF des mauvaises notes de l'étudiant
+  ;on teste si le dÃ©part est possible au vu du pourcentage_EF des mauvaises notes de l'Ã©tudiant
+  
+  (load  "FactsBase.cl")
+  (load  "RulesBase.cl")
+  (load  "Tools.cl")
+	
   (unless (depart_possible? (pourcentage_EF *BF*))
     (error "le depart est impossible au vu de vos resultats")
     )
